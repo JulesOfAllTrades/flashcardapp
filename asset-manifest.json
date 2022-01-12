@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JulesOfAllTrades/flashcardapp/static/css/main.9778a581.css",
+    "main.js": "/JulesOfAllTrades/flashcardapp/static/js/main.cee1ac68.js",
+    "static/js/787.00458b72.chunk.js": "/JulesOfAllTrades/flashcardapp/static/js/787.00458b72.chunk.js",
+    "index.html": "/JulesOfAllTrades/flashcardapp/index.html",
+    "main.9778a581.css.map": "/JulesOfAllTrades/flashcardapp/static/css/main.9778a581.css.map",
+    "main.cee1ac68.js.map": "/JulesOfAllTrades/flashcardapp/static/js/main.cee1ac68.js.map",
+    "787.00458b72.chunk.js.map": "/JulesOfAllTrades/flashcardapp/static/js/787.00458b72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9778a581.css",
+    "static/js/main.cee1ac68.js"
+  ]
+}
